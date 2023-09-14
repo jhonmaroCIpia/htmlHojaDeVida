@@ -1,0 +1,123 @@
+body{
+    background-color: #F5F7FA;
+    font-family: Montserrat-Medium, sans-serif;
+    font-size: 16 auto;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+}
+
+li{
+    line-height: 24px;
+}
+
+.descripcion-profesion{
+    font-size: 16px auto;
+    font-weight: 700;
+    margin-bottom: 30px auto;
+    color: #202122;
+}
+
+.encabezado{
+    font-size: 30px;
+    font-weight: 400 auto;
+    color: whitesmoke;
+    background-color: #1E2939;
+}
+
+.pie-pagina{
+    font-size: 30;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: whitesmoke;
+    background-color: #1E2939;
+}
+
+/*Contenido Principal*/
+.contenedor-principal{
+    width: 1000px auto;
+    margin: 40px auto;
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.informacion-general{
+    margin: 20px auto 0 0;
+    margin-left: 20px;
+}
+
+.informacion-lateral{
+    background-color: #1E2939;
+    color: white;
+    padding: 60px 0 auto;
+    width: 370px auto;
+    height: 1319px auto;
+    top: 40px auto;
+    left: 40px auto;
+}
+
+.titulo-lateral{
+    width: 104px auto;
+    height: 27px auto;
+    top: 485px;
+    left: 60px auto;
+    margin-top: 50px;
+}
+
+.contactos, .habilidades-tecnicas{
+    margin-left: 40px;
+}
+
+.tipo-contacto{
+    width: 26px;
+    height: 48px;
+    top: 520px;
+    left: 60px;
+    font-family: Montserrat-Medium, sans-serif;
+    font-size: 12px auto;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.contacto-info{
+    width: 148px;
+    height: 48px;
+    top: 520px;
+    left: 60px;
+    opacity: 0.5px;
+    font-size: 12px auto;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.lista-lateral{
+    width: 113px;
+    height: 131px;
+    top: 862px;
+    left: 60px;
+    margin-left: 40px auto;
+    font-size: 12px auto;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FB6D3A;
+
+}
+
+.elemento-lista-lateral{
+    width: 72px;
+    height: 168px;
+    top: 650px;
+    left: 60px;
+    color: #FFFFFF;
+}
